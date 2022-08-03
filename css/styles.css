@@ -9,12 +9,16 @@ h1.intro {
   font-size: 40px;
 }
 
-h2.intro{
+h2.intro {
     text-align: center;
     color: blue;
 }
 
-p.intro{
+div.intro {
     text-align: center;
     color: blue;
+}
+
+.link {
+    color:red;
 }
